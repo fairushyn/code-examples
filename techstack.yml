@@ -1,0 +1,4183 @@
+repo_name: fairushyn/code-examples
+report_id: 37f618f9f0c1a6bda6dbadd0de624323
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-13T18:20:30+00:00'
+requested_by: sagaofsilence
+provider: github
+branch: master
+detected_tools_count: 285
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/fairushyn/code-examples
+  detection_source: Repo Metadata
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/csrf/package.json
+  detection_source: csrf/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-07-22 09:44:26.000000000 Z
+- name: Groovy
+  description: A multi-faceted language for the Java platform
+  website_url: https://groovy-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/fairushyn/code-examples
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/fairushyn/code-examples
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/fairushyn/code-examples
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/fairushyn/code-examples
+  detection_source: Repo Metadata
+- name: Pug
+  description: Robust, elegant, feature rich template engine for nodejs
+  website_url: https://pugjs.org
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1175/pug.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/csrf/package.json
+  detection_source: csrf/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-07-22 09:44:26.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/aws-rds-hello-world/src/main/resources/db/migration/V001__create_table_user.sql
+  detection_source: aws/aws-rds-hello-world/src/main/resources/db/migration/V001__create_table_user.sql
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-05-08 22:38:41.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/devtools-demo/app/build.gradle
+  detection_source: spring-boot/devtools-demo/app/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-08-10 11:07:55.000000000 Z
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/url-shortener/urlfrontend/package-lock.json
+  detection_source: nodejs/url-shortener/urlfrontend/package.json
+  last_updated_by: Olaoluwa Ajibade
+  last_updated_on: 2022-11-03 23:46:47.000000000 Z
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 2.9.3
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-26 20:31:28.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/cors/ecommapp/package-lock.json
+  detection_source: cors/ecommapp/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-07-05 12:39:25.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/node/express/getting-started/package.json
+  detection_source: node/express/getting-started/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-03-12 20:44:09.000000000 Z
+- name: Project Reactor
+  description: Library for building non-blocking applications on JVM
+  website_url: https://projectreactor.io/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-reactive-architecture/account-management-service/pom.xml
+  detection_source: spring-reactive-architecture/account-management-service/pom.xml
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-05-04 20:23:29.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/axios/reactapp/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-05-17 14:13:10.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 5.5.2
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: Spring Cloud
+  description: Spring helps development teams everywhere build simple, portable,fast
+    and flexible JVM-based systems and applications.
+  website_url: https://spring.io/projects/spring-cloud
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5494/default_b403ef08976083aea6d4caf5a4f19f3325c751e5.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/logging/structured-logging/pom.xml
+  detection_source: logging/structured-logging/pom.xml
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2021-08-16 10:22:15.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/aws-hello-world/build.gradle
+  detection_source: aws/aws-hello-world/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-01-22 19:59:18.000000000 Z
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  version: 5.3.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-08 11:51:46.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-08 11:51:46.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  version: 31.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/collectionops/pom.xml
+  detection_source: core-java/collectionops/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-01-04 09:55:55.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/nodejs-react-feature-flag-launchdarkly/package.json
+  detection_source: nodejs/nodejs-react-feature-flag-launchdarkly/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-10-10 19:49:45.000000000 Z
+- name: Cron
+  description: Background-only application
+  website_url: https://directory.fsf.org/wiki/Cron
+  version: 2.1.0
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Background Processing
+  image_url: https://img.stackshare.io/service/2416/default_274ed9bcc98502018f007cfcd8c09f3514d3d319.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/nodejs-backend-admin-feature-flag-launchdarkly/package.json
+  detection_source: nodejs/nodejs-backend-admin-feature-flag-launchdarkly/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-10-10 19:49:21.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/graphql/student-register/package.json
+  detection_source: nodejs/graphql/student-register/package.json
+  last_updated_by: olaoluwa ajibade
+  last_updated_on: 2023-03-13 04:36:45.000000000 Z
+- name: H2 Database
+  description: A relational database management system written in Java
+  website_url: http://www.h2database.com/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/s3/build.gradle
+  detection_source: aws/s3/build.gradle
+  last_updated_by: jgoerner
+  last_updated_on: 2021-02-03 20:11:58.000000000 Z
+- name: HSQLDB
+  description: Leading SQL relational database software written in Java
+  website_url: http://hsqldb.org
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/6958/yQ4763oZ_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/lombok/be-informed-with-lombok/pom.xml
+  detection_source: core-java/lombok/be-informed-with-lombok/pom.xml
+  last_updated_by: ranjanih
+  last_updated_on: 2022-04-09 22:55:31.000000000 Z
+- name: Hazelcast
+  description: Clustering and highly scalable data distribution platform for Java
+  website_url: http://hazelcast.org/
+  version: 4.0.1
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/2024/default_000f7e56d4be68acfa58a6ea8bd40e65a10e04ff.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/cache/build.gradle
+  detection_source: spring-boot/cache/build.gradle
+  last_updated_by: akuksin
+  last_updated_on: 2020-06-18 21:11:44.000000000 Z
+- name: Kafka
+  description: Distributed, fault tolerant, high throughput pub-sub messaging system
+  website_url: http://kafka.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-kafka/pom.xml
+  detection_source: spring-boot/spring-boot-kafka/pom.xml
+  last_updated_by: Nandan Bn
+  last_updated_on: 2020-07-06 14:33:57.000000000 Z
+- name: Liquibase
+  description: Easily track, version &amp; deploy database changes
+  website_url: https://www.liquibase.com
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/1398/y1As8_s5_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/data-migration/liquibase/pom.xml
+  detection_source: spring-boot/data-migration/liquibase/pom.xml
+  last_updated_by: prabhakar349
+  last_updated_on: 2020-03-30 10:06:25.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  version: 4.9.1
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/url-shortener/urlbackend/package-lock.json
+  detection_source: spring-boot/spring-boot-and-reactjs/publisher_register/pom.xml
+  last_updated_by: olaoluwa ajibade
+  last_updated_on: 2023-05-03 16:38:29.000000000 Z
+- name: Mongoose
+  description: MongoDB object modeling designed to work in an asynchronous environment
+  website_url: http://mongoosejs.com/
+  version: 6.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Document Mapper (ODM)
+  image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/url-shortener/urlbackend/package-lock.json
+  detection_source: nodejs/graphql/student-register/package.json
+  last_updated_by: olaoluwa ajibade
+  last_updated_on: 2023-03-13 04:36:45.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/springcloudrds/pom.xml
+  detection_source: aws/springcloudrds/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-05-13 11:56:32.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/aws-rds-hello-world/build.gradle
+  detection_source: aws/aws-rds-hello-world/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-05-08 22:38:41.000000000 Z
+- name: Sequelize
+  description: Easy-to-use multi SQL dialect ORM for Node.js
+  website_url: https://sequelize.org/
+  version: 6.25.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/3211/3591786.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/node-csv-importer/package.json
+  detection_source: nodejs/node-csv-importer/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-12-04 22:50:13.000000000 Z
+- name: Spring Data
+  description: Provides a consistent approach to data access – relational, non-relational,
+    map-reduce, and beyond
+  website_url: https://spring.io/projects/spring-data
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/7624/IG6D4Ro2_400x400.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-elasticsearch/pom.xml
+  detection_source: spring-boot/spring-boot-elasticsearch/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2020-12-13 11:42:14.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.17.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/.babelrc
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: Cypress
+  description: When testing is easy, developers build better things faster and with
+    confidence.
+  website_url: https://www.cypress.io/
+  version: 9.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/fairushyn/code-examples
+  detection_source: Repo Metadata
+- name: Docker Compose
+  description: Define and run multi-container applications with Docker
+  website_url: https://github.com/docker/compose
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-reactive-architecture/docker-compose.yml
+  detection_source: spring-reactive-architecture/docker-compose.yml
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-05-04 20:23:29.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/.eslintrc
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/.eslintrc
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fairushyn/code-examples
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/.github/workflows/ci.yml
+  detection_source: ".github/workflows/ci.yml"
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-08-08 07:13:39.000000000 Z
+- name: GlassFish
+  description: The Open Source Java EE Reference Implementation
+  website_url: https://glassfish.java.net
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/3628/515GX-Cc_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  detection_source: spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  last_updated_by: Petros Stergioulas
+  last_updated_on: 2020-02-09 21:25:26.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/aws-hello-world/build.gradle
+  detection_source: aws/aws-hello-world/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-01-22 19:59:18.000000000 Z
+- name: Hystrix
+  description: Latency and fault tolerance library
+  website_url: https://github.com/Netflix/Hystrix
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Fault Tolerance Tools
+  image_url: https://img.stackshare.io/service/1758/cde558e9b4a1f07ff99f90d637c38388.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/openfeign/openfeign-client-intro/pom.xml
+  detection_source: openfeign/openfeign-client-intro/pom.xml
+  last_updated_by: Sachin Raverkar
+  last_updated_on: 2023-10-01 22:13:41.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: '4.13'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/streams/fileswithstreams/pom.xml
+  detection_source: archunit/pom.xml
+  last_updated_by: michaelk
+  last_updated_on: 2023-06-26 07:55:27.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 2.8.0
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 27.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/cicd-nodejs/package.json
+  last_updated_by: Olaoluwa Ajibade
+  last_updated_on: 2023-08-14 21:04:33.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 1.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-12-10 19:24:55.000000000 Z
+- name: Lando
+  description: An open source, local development environment and DevOps tool
+  website_url: https://docs.devwithlando.io/
+  license: GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/9663/default_a0119995387263e1035017a5ef7588f261ce82d2.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/jackson-jsonview/UserApplication/pom.xml
+  detection_source: spring-boot/jackson-jsonview/UserApplication/pom.xml
+  last_updated_by: Ranjani
+  last_updated_on: 2023-04-01 19:17:32.000000000 Z
+- name: LaunchDarkly
+  description: Feature Management Platform
+  website_url: https://launchdarkly.com/index.html
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Feature Flags Management
+  image_url: https://img.stackshare.io/service/4506/default_11d18d52b1a22b048f9806361243c7ba4dd2c7a1.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/nodejs-react-feature-flag-launchdarkly/package.json
+  detection_source: nodejs/nodejs-react-feature-flag-launchdarkly/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-10-10 19:49:45.000000000 Z
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  version: 1.7.36
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/mapstruct/pom.xml
+  detection_source: aws/structured-logging-cw/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2023-04-25 13:56:42.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/logging/build.gradle
+  detection_source: logging/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2018-08-04 07:03:43.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-node-messages/package-lock.json
+  detection_source: pact/pact-node-messages/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2018-11-14 20:11:30.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/cookie-demo/pom.xml
+  detection_source: spring-boot/cookie-demo/pom.xml
+  last_updated_by: Ortela Gode
+  last_updated_on: 2021-01-17 19:01:49.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/modules/package-lock.json
+  detection_source: nodejs/modules/package.json
+  last_updated_by: Robert Dey
+  last_updated_on: 2022-02-17 19:25:06.000000000 Z
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-health-check/pom.xml
+  detection_source: spring-boot/spring-boot-health-check/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2020-09-19 05:44:17.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/logging/log4j/pom.xml
+  detection_source: logging/log4j/pom.xml
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2021-06-04 21:50:27.000000000 Z
+- name: SuperTest
+  description: A library for testing node.js HTTP servers
+  website_url: https://www.npmjs.com/package/supertest
+  version: 6.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/cicd-nodejs/package-lock.json
+  detection_source: nodejs/cicd-nodejs/package.json
+  last_updated_by: Olaoluwa Ajibade
+  last_updated_on: 2023-08-14 21:04:33.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: Terraform
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://www.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/aws-terraform/aws-app-stack-cloud/modules/storage/main.tf
+  detection_source: aws/aws-terraform/aws-app-stack-cloud/modules/storage/main.tf
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-04-16 12:01:29.000000000 Z
+- name: Terraform Registry
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://registry.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/aws-terraform/aws-app-stack-cloud/modules/storage/main.tf
+  detection_source: aws/aws-terraform/aws-app-stack-cloud/modules/storage/main.tf
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-04-16 12:01:29.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-07-31 17:13:15.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.72.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: Zookeeper
+  description: Because coordinating distributed systems is a Zoo
+  website_url: http://zookeeper.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Open Source Service Discovery
+  image_url: https://img.stackshare.io/service/1528/apache-zookeeper.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-reactive-architecture/docker-compose.yml
+  detection_source: spring-reactive-architecture/docker-compose.yml
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-05-04 20:23:29.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 2.0.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/node/express/getting-started/package.json
+  detection_source: node/express/getting-started/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-03-12 20:44:09.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-08 11:51:46.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/aws-hello-world/src/main/resources/application.properties
+  detection_source: aws/aws-hello-world/src/main/resources/application.properties
+- name: Apollo
+  description: GraphQL server for Express, Connect, Hapi, Koa and more
+  website_url: https://www.apollographql.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/5508/CyUH653y.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-react-consumer/package.json
+  detection_source: pact/pact-react-consumer/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2018-11-08 15:31:46.000000000 Z
+- name: Dataform
+  description: A framework for managing SQL based data operations.
+  website_url: https://dataform.co/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/11236/Group_22__3_.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/data-migration/liquibase/pom.xml
+  detection_source: spring-boot/data-migration/liquibase/pom.xml
+  last_updated_by: prabhakar349
+  last_updated_on: 2020-03-30 10:06:25.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/devtools-demo/app/build.gradle
+  detection_source: spring-boot/devtools-demo/app/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-08-10 11:07:55.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-elasticsearch/pom.xml
+  detection_source: spring-boot/spring-boot-elasticsearch/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2020-12-13 11:42:14.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/nodejs-backend-admin-feature-flag-launchdarkly/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-10-10 19:49:21.000000000 Z
+- name: Mongo
+  description: Heroku provides services and tools to build, run, and scale web applications.
+    Follow @herokustatus for platform updates. A @salesforce company.
+  website_url: http://wedesignapps.herokuapp.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3519/3wgIDj3j_normal.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-reactive-architecture/docker-compose.yml
+  detection_source: spring-reactive-architecture/docker-compose.yml
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-05-04 20:23:29.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/fairushyn/code-examples
+  detection_source: Repo Metadata
+- name: Winston
+  description: a multi-transport async logging library for node.js
+  website_url: https://github.com/winstonjs/winston
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6668/9682013.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/logging-file/package.json
+  detection_source: nodejs/logging-file/package.json
+  last_updated_by: Olaoluwa Ajibade
+  last_updated_on: 2022-07-24 23:51:25.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.27.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/axios/reactapp/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-05-17 14:13:10.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/modules/package.json
+  detection_source: nodejs/modules/package.json
+  last_updated_by: Robert Dey
+  last_updated_on: 2022-02-17 19:25:06.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/nodejs-backend-admin-feature-flag-launchdarkly/package.json
+  detection_source: nodejs/nodejs-backend-admin-feature-flag-launchdarkly/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-10-10 19:49:21.000000000 Z
+- name: ch.qos.logback:logback-classic
+  description: Logback-classic module
+  version: 1.2.3
+  license: EPL-1.0,LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/logging/build.gradle
+  detection_source: logging/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2018-08-04 07:03:43.000000000 Z
+  vulnerabilities:
+  - name: logback serialization vulnerability
+    cve_id: CVE-2023-6378
+    cve_url: https://github.com/advisories/GHSA-vmq6-5m68-f53m
+    detected_date: Nov 30
+    severity: high
+    first_patched: 1.2.13
+- name: com.amazonaws:aws-java-sdk-cloudformation
+  description: The AWS Java SDK for AWS CloudFormation module holds the client classes
+    that are used for communicating with AWS CloudFormation Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/spring-cloud-caching-redis/build.gradle
+  detection_source: aws/spring-cloud-caching-redis/build.gradle
+  last_updated_by: Murtuza Ranapurwala
+  last_updated_on: 2021-06-06 16:01:26.000000000 Z
+- name: com.brsanthu:migbase64
+  description: MiGBase64 is a very fast and small Base64 Codec written in Java
+  version: '2.2'
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  detection_source: spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  last_updated_by: Petros Stergioulas
+  last_updated_on: 2020-02-09 21:25:26.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-annotations
+  description: Core annotations used for value types
+  version: 2.9.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/request-response/server/build.gradle
+  detection_source: spring-boot/request-response/client/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2021-02-08 20:31:03.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-core
+  description: Core Jackson processing abstractions
+  version: 2.9.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/request-response/server/build.gradle
+  detection_source: spring-boot/request-response/client/build.gradle
+  last_updated_by: akuksin
+  last_updated_on: 2020-07-25 10:27:23.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  version: 2.13.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/jackson/jackson/pom.xml
+  detection_source: core-java/jackson/jackson/pom.xml
+  last_updated_by: Abdulcelil Cercenazi
+  last_updated_on: 2022-07-14 20:34:05.000000000 Z
+  vulnerabilities:
+  - name: Uncontrolled Resource Consumption in FasterXML jackson-databind
+    cve_id: CVE-2022-42004
+    cve_url: https://github.com/advisories/GHSA-rgv9-q543-rqg4
+    detected_date: Oct 5
+    severity: high
+    first_patched: 2.13.4
+  - name: Uncontrolled Resource Consumption in Jackson-databind
+    cve_id: CVE-2022-42003
+    cve_url: https://github.com/advisories/GHSA-jjjh-jjxp-wpff
+    detected_date: Oct 5
+    severity: high
+    first_patched: 2.13.4.2
+- name: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml
+  description: Support for reading and writing YAML-encoded data via Jackson abstractions
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/data-migration/liquibase/pom.xml
+  detection_source: spring-boot/data-migration/liquibase/pom.xml
+  last_updated_by: prabhakar349
+  last_updated_on: 2020-03-30 10:06:25.000000000 Z
+- name: com.fasterxml.jackson.datatype:jackson-datatype-joda
+  description: Add-on module for Jackson
+  version: 2.10.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  detection_source: spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  last_updated_by: Petros Stergioulas
+  last_updated_on: 2020-02-09 21:25:26.000000000 Z
+- name: com.fasterxml.jackson.datatype:jackson-datatype-jsr310
+  description: Add-on module to support JSR-310
+  version: 2.13.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/jackson/jackson/pom.xml
+  detection_source: core-java/jackson/jackson/pom.xml
+  last_updated_by: Abdulcelil Cercenazi
+  last_updated_on: 2022-07-14 20:34:05.000000000 Z
+- name: com.fasterxml.jackson.jaxrs:jackson-jaxrs-base
+  description: Pile of code that is shared by all Jackson-based JAX-RS providers
+  version: 2.10.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  detection_source: spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  last_updated_by: Petros Stergioulas
+  last_updated_on: 2020-02-09 21:25:26.000000000 Z
+- name: com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider
+  description: Functionality to handle JSON input/output for JAX-RS implementations
+  version: 2.10.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  detection_source: spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  last_updated_by: Petros Stergioulas
+  last_updated_on: 2020-02-09 21:25:26.000000000 Z
+- name: com.github.springtestdbunit:spring-test-dbunit
+  description: Integration between the Spring testing framework and DBUnit
+  version: 1.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-testing/build.gradle
+  detection_source: spring-boot/spring-boot-testing/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2019-02-24 05:55:20.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  version: 31.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/collectionops/pom.xml
+  detection_source: core-java/collectionops/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-01-04 09:55:55.000000000 Z
+  vulnerabilities:
+  - name: Guava vulnerable to insecure use of temporary directory
+    cve_id: CVE-2023-2976
+    cve_url: https://github.com/advisories/GHSA-7g45-4rm6-3mm3
+    detected_date: Jun 15
+    severity: moderate
+    first_patched: 32.0.0-android
+  - name: Information Disclosure in Guava
+    cve_id: CVE-2020-8908
+    cve_url: https://github.com/advisories/GHSA-5mg8-w23w-74h3
+    detected_date: Aug 22
+    severity: low
+    first_patched: 32.0.0-android
+- name: com.h2database:h2
+  description: H2 Database Engine
+  version: 1.4.196
+  license: MIT-feh
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-feign-consumer/build.gradle
+  detection_source: aws/s3/build.gradle
+  last_updated_by: jgoerner
+  last_updated_on: 2021-02-03 20:11:58.000000000 Z
+  vulnerabilities:
+  - name: Arbitrary code execution in H2 Console
+    cve_id: CVE-2022-23221
+    cve_url: https://github.com/advisories/GHSA-45hx-wfhj-473x
+    detected_date: Jan 22
+    severity: critical
+    first_patched: 2.1.210
+  - name: RCE in H2 Console
+    cve_id: CVE-2021-42392
+    cve_url: https://github.com/advisories/GHSA-h376-j262-vhq6
+    detected_date: Jan 7
+    severity: critical
+    first_patched: 2.0.206
+  - name: 'Password exposure in H2 Database '
+    cve_id: CVE-2022-45868
+    cve_url: https://github.com/advisories/GHSA-22wj-vf5f-wrvj
+    detected_date: Nov 24
+    severity: high
+    first_patched: 2.2.220
+- name: com.hazelcast:hazelcast
+  description: Core Hazelcast Module
+  version: 4.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/cache/build.gradle
+  detection_source: spring-boot/cache/build.gradle
+  last_updated_by: akuksin
+  last_updated_on: 2020-06-18 21:11:44.000000000 Z
+  vulnerabilities:
+  - name: Hazelcast connection caching
+    cve_id: CVE-2022-36437
+    cve_url: https://github.com/advisories/GHSA-c5hg-mr8r-f6jp
+    detected_date: Dec 28
+    severity: critical
+    first_patched: 
+  - name: Security Advisory for "Log4Shell"
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-v57x-gxfj-484q
+    detected_date: Jan 22
+    severity: critical
+    first_patched: 4.0.5
+  - name: Hazelcast Executor Services don't check client permissions properly
+    cve_id: CVE-2023-33265
+    cve_url: https://github.com/advisories/GHSA-c5vj-wp4v-mmvx
+    detected_date: Jul 20
+    severity: high
+    first_patched: 5.0.5
+  - name: Hazelcast vulnerable to unmasked password exposure
+    cve_id: CVE-2023-33264
+    cve_url: https://github.com/advisories/GHSA-5gj6-62g7-vmgf
+    detected_date: May 23
+    severity: moderate
+    first_patched: 5.3.0
+- name: com.hazelcast:hazelcast-spring
+  description: Open Source In-Memory Data Grid
+  version: 4.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/cache/build.gradle
+  detection_source: spring-boot/cache/build.gradle
+  last_updated_by: akuksin
+  last_updated_on: 2020-06-18 21:11:44.000000000 Z
+- name: com.jayway.jsonpath:json-path
+  description: Java port of Stefan Goessner JsonPath
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-health-check/pom.xml
+  detection_source: spring-boot/spring-boot-health-check/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2020-09-21 17:05:38.000000000 Z
+- name: com.netflix.hystrix:hystrix-core
+  description: Hystrix-core
+  version: 1.5.18
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/openfeign/openfeign-client-intro/pom.xml
+  detection_source: openfeign/openfeign-client-intro/pom.xml
+  last_updated_by: Sachin Raverkar
+  last_updated_on: 2023-10-01 22:13:41.000000000 Z
+- name: com.squareup.okhttp3:logging-interceptor
+  description: 'Null'
+  version: 3.4.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/retrofit/introduction-to-retrofit/AuditApplication/pom.xml
+  detection_source: core-java/retrofit/introduction-to-retrofit/AuditApplication/pom.xml
+  last_updated_by: ranjanih
+  last_updated_on: 2022-05-17 20:27:51.000000000 Z
+- name: com.squareup.okhttp3:okhttp
+  description: 'Null'
+  version: 4.9.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/http-clients/pom.xml
+  detection_source: http-clients/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-11-05 11:43:05.000000000 Z
+- name: com.squareup.retrofit2:converter-jackson
+  description: Type-safe HTTP client for Android and Java by Square, Inc
+  version: 2.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/retrofit/introduction-to-retrofit/AuditApplication/pom.xml
+  detection_source: core-java/retrofit/introduction-to-retrofit/AuditApplication/pom.xml
+  last_updated_by: ranjanih
+  last_updated_on: 2022-05-17 20:27:51.000000000 Z
+- name: com.squareup.retrofit2:retrofit
+  version: 2.5.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/retrofit/introduction-to-retrofit/AuditApplication/pom.xml
+  detection_source: core-java/retrofit/introduction-to-retrofit/AuditApplication/pom.xml
+  last_updated_by: ranjanih
+  last_updated_on: 2022-05-17 20:27:51.000000000 Z
+- name: com.thoughtworks.xstream:xstream
+  description: XStream is a serialization library from Java objects to XML and back
+  version: 1.4.11
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/resttemplate/pom.xml
+  detection_source: spring-boot/resttemplate/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-12-27 03:55:04.000000000 Z
+  vulnerabilities:
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-39145
+    cve_url: https://github.com/advisories/GHSA-8jrj-525p-826v
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: XStream can cause Denial of Service via stack overflow
+    cve_id: CVE-2022-41966
+    cve_url: https://github.com/advisories/GHSA-j563-grx4-pjpv
+    detected_date: Dec 29
+    severity: high
+    first_patched: 1.4.20
+  - name: XStream is vulnerable to a Remote Command Execution attack
+    cve_id: CVE-2021-29505
+    cve_url: https://github.com/advisories/GHSA-7chv-rrw6-w6fc
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.4.17
+  - name: XStream can be used for Remote Code Execution
+    cve_id: CVE-2020-26217
+    cve_url: https://github.com/advisories/GHSA-mw36-7c6c-q4q2
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.4.14-jdk7
+  - name: XStream can cause a Denial of Service by injecting deeply nested objects
+      raising a stack overflow
+    cve_id: CVE-2022-40151
+    cve_url: https://github.com/advisories/GHSA-f8cc-g7j8-xxpm
+    detected_date: Dec 31
+    severity: high
+    first_patched: 1.4.20
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-39154
+    cve_url: https://github.com/advisories/GHSA-6w62-hx7r-mw68
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-39153
+    cve_url: https://github.com/advisories/GHSA-2q8x-2p7f-574v
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: A Server-Side Forgery Request can be activated unmarshalling with XStream
+      to access data streams from an arbitrary URL referencing a resource in an intranet
+      or the local host
+    cve_id: CVE-2021-39152
+    cve_url: https://github.com/advisories/GHSA-xw4p-crpj-vjx2
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-39151
+    cve_url: https://github.com/advisories/GHSA-hph2-m3g5-xxv4
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: A Server-Side Forgery Request can be activated unmarshalling with XStream
+      to access data streams from an arbitrary URL referencing a resource in an intranet
+      or the local host
+    cve_id: CVE-2021-39150
+    cve_url: https://github.com/advisories/GHSA-cxfm-5m4g-x7xp
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-39149
+    cve_url: https://github.com/advisories/GHSA-3ccq-5vw3-2p6x
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-39148
+    cve_url: https://github.com/advisories/GHSA-qrx8-8545-4wg2
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-39147
+    cve_url: https://github.com/advisories/GHSA-h7v4-7xg3-hxcc
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-39146
+    cve_url: https://github.com/advisories/GHSA-p8pq-r894-fm8f
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: XStream is vulnerable to a Remote Command Execution attack
+    cve_id: CVE-2021-39144
+    cve_url: https://github.com/advisories/GHSA-j9h8-phrw-h4fh
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-39141
+    cve_url: https://github.com/advisories/GHSA-g5w6-mrj7-75h2
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-39139
+    cve_url: https://github.com/advisories/GHSA-64xx-cq4q-mf44
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.4.18
+  - name: XStream Denial of Service due to parser crash
+    cve_id: CVE-2022-40153
+    cve_url: https://github.com/advisories/GHSA-fv22-xp26-mm9w
+    detected_date: Sep 21
+    severity: high
+    first_patched: 
+  - name: XStream can cause a Denial of Service.
+    cve_id: CVE-2021-21341
+    cve_url: https://github.com/advisories/GHSA-2p3x-qw9c-25hh
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.4.16
+  - name: Server-Side Forgery Request can be activated unmarshalling with XStream
+    cve_id: CVE-2020-26258
+    cve_url: https://github.com/advisories/GHSA-4cch-wxpw-8p28
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.4.15
+  - name: Denial of Service by injecting highly recursive collections or maps in XStream
+    cve_id: CVE-2021-43859
+    cve_url: https://github.com/advisories/GHSA-rmr5-cpv2-vgjf
+    detected_date: Feb 1
+    severity: high
+    first_patched: 1.4.19
+  - name: A Server-Side Forgery Request can be activated unmarshalling with XStream
+      to access data streams from an arbitrary URL referencing a resource in an intranet
+      or the local host
+    cve_id: CVE-2021-21349
+    cve_url: https://github.com/advisories/GHSA-f6hm-88x3-mfjv
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.16
+  - name: XStream is vulnerable to an attack using Regular Expression for a Denial
+      of Service (ReDos)
+    cve_id: CVE-2021-21348
+    cve_url: https://github.com/advisories/GHSA-56p8-3fh9-4cvq
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.16
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-21347
+    cve_url: https://github.com/advisories/GHSA-qpfq-ph7r-qv6f
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.16
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-21346
+    cve_url: https://github.com/advisories/GHSA-4hrm-m67v-5cxr
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.16
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-21344
+    cve_url: https://github.com/advisories/GHSA-59jw-jqf4-3wq3
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.16
+  - name: XStream is vulnerable to an Arbitrary File Deletion on the local host when
+      unmarshalling as long as the executing process has sufficient rights
+    cve_id: CVE-2021-21343
+    cve_url: https://github.com/advisories/GHSA-74cv-f58x-f9wf
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.16
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-21351
+    cve_url: https://github.com/advisories/GHSA-hrcp-8f3q-4w2c
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.16
+  - name: XStream vulnerable to an Arbitrary File Deletion on the local host when
+      unmarshalling
+    cve_id: CVE-2020-26259
+    cve_url: https://github.com/advisories/GHSA-jfvx-7wrx-43fh
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.15
+  - name: XStream is vulnerable to an Arbitrary Code Execution attack
+    cve_id: CVE-2021-21350
+    cve_url: https://github.com/advisories/GHSA-43gc-mjxg-gvrq
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.16
+  - name: A Server-Side Forgery Request can be activated unmarshalling with XStream
+      to access data streams from an arbitrary URL referencing a resource in an intranet
+      or the local host
+    cve_id: CVE-2021-21342
+    cve_url: https://github.com/advisories/GHSA-hvv8-336g-rx3m
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.16
+  - name: XStream can cause a Denial of Service
+    cve_id: CVE-2021-39140
+    cve_url: https://github.com/advisories/GHSA-6wf9-jmg9-vxcc
+    detected_date: Aug 26
+    severity: moderate
+    first_patched: 1.4.18
+  - name: XStream is vulnerable to a Remote Command Execution attack
+    cve_id: CVE-2021-21345
+    cve_url: https://github.com/advisories/GHSA-hwpc-8xqv-jvj4
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.16
+  - name: XStream Denial of Service due to parser crash
+    cve_id: CVE-2022-40152
+    cve_url: https://github.com/advisories/GHSA-3f7h-mf4q-vrm4
+    detected_date: Sep 21
+    severity: low
+    first_patched: 
+  - name: XStream Denial of Service via stack overflow
+    cve_id: CVE-2022-40154
+    cve_url: https://github.com/advisories/GHSA-9fwf-46g9-45rx
+    detected_date: Sep 22
+    severity: low
+    first_patched: 
+  - name: XStream Denial of Service via stack overflow
+    cve_id: CVE-2022-40155
+    cve_url: https://github.com/advisories/GHSA-5hc5-c3m9-8vcj
+    detected_date: Sep 22
+    severity: low
+    first_patched: 
+  - name: XStream Denial of Service due to parser crash
+    cve_id: CVE-2022-40156
+    cve_url: https://github.com/advisories/GHSA-4rv7-wj6m-6c6r
+    detected_date: Sep 21
+    severity: low
+    first_patched: 
+  - name: 'Duplicate Advisory: Denial of Service due to parser crash'
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-3mq5-fq9h-gj7j
+    detected_date: Sep 21
+    severity: low
+    first_patched: 
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  version: 2.11.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/lombok/be-informed-with-lombok/pom.xml
+  detection_source: core-java/lombok/be-informed-with-lombok/pom.xml
+  last_updated_by: ranjanih
+  last_updated_on: 2022-04-09 22:55:31.000000000 Z
+- name: io.github.openfeign:feign-core
+  description: Feign Core
+  version: '12.5'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/openfeign/openfeign-client-intro/pom.xml
+  detection_source: openfeign/openfeign-client-intro/pom.xml
+  last_updated_by: Sachin Raverkar
+  last_updated_on: 2023-10-01 22:13:41.000000000 Z
+- name: io.github.openfeign:feign-jackson
+  description: Feign Jackson
+  version: '12.5'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/openfeign/openfeign-client-intro/pom.xml
+  detection_source: openfeign/openfeign-client-intro/pom.xml
+  last_updated_by: Sachin Raverkar
+  last_updated_on: 2023-10-01 22:13:41.000000000 Z
+- name: io.micrometer:micrometer-core
+  description: Application monitoring instrumentation facade
+  version: 1.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/resilience4j/bulkhead/pom.xml
+  detection_source: aws/springcloudwatch/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-09-03 17:44:32.000000000 Z
+- name: io.micrometer:micrometer-registry-prometheus
+  description: Application monitoring instrumentation facade
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-health-check/pom.xml
+  detection_source: spring-boot/spring-boot-health-check/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2020-09-21 17:05:38.000000000 Z
+- name: io.projectreactor:reactor-test
+  description: Reactor Test support
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-reactive-architecture/account-management-service/pom.xml
+  detection_source: spring-reactive-architecture/account-management-service/pom.xml
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-05-04 20:23:29.000000000 Z
+- name: io.springfox:springfox-swagger-ui
+  description: JSON API documentation for spring based applications
+  version: 2.9.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/retrofit/introduction-to-retrofit/SimpleLibraryApplication/pom.xml
+  detection_source: core-java/retrofit/introduction-to-retrofit/SimpleLibraryApplication/pom.xml
+  last_updated_by: ranjanih
+  last_updated_on: 2022-05-17 20:27:51.000000000 Z
+- name: io.springfox:springfox-swagger2
+  description: JSON API documentation for spring based applications
+  version: 2.9.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/retrofit/introduction-to-retrofit/SimpleLibraryApplication/pom.xml
+  detection_source: core-java/retrofit/introduction-to-retrofit/SimpleLibraryApplication/pom.xml
+  last_updated_by: ranjanih
+  last_updated_on: 2022-05-17 20:27:51.000000000 Z
+- name: io.swagger:swagger-annotations
+  description: Examples and server integrations for generating the Swagger API Specification
+  version: 1.5.22
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  detection_source: spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  last_updated_by: Petros Stergioulas
+  last_updated_on: 2020-02-09 21:25:26.000000000 Z
+- name: javax.annotation:javax.annotation-api
+  description: Common Annotations for the JavaTM Platform API
+  version: 1.3.2
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/modular/booking-module/build.gradle
+  detection_source: spring-boot/modular/booking-module/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2019-03-30 07:02:10.000000000 Z
+- name: javax.validation:validation-api
+  description: Bean Validation API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/patterns/build.gradle
+  detection_source: patterns/build.gradle
+  last_updated_by: thombergs
+  last_updated_on: 2020-06-21 13:11:47.000000000 Z
+- name: javax.ws.rs:javax.ws.rs-api
+  version: 2.1.1
+  license: CDDL-1.1,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/archunit/pom.xml
+  detection_source: archunit/pom.xml
+  last_updated_by: michaelk
+  last_updated_on: 2023-06-26 07:55:27.000000000 Z
+- name: javax.xml.bind:jaxb-api
+  description: JAXB
+  version: 2.3.1
+  license: CDDL-1.1,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-feign-consumer/build.gradle
+  detection_source: pact/pact-feign-consumer/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2019-03-30 07:02:10.000000000 Z
+- name: joda-time:joda-time
+  description: Date and time library to replace JDK date handling
+  version: '2.7'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  detection_source: spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  last_updated_by: Petros Stergioulas
+  last_updated_on: 2020-02-09 21:25:26.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.13'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/streams/fileswithstreams/pom.xml
+  detection_source: core-java/streams/fileswithstreams/pom.xml
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-09-26 21:39:25.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: mysql:mysql-connector-java
+  description: MySQL JDBC Type 4 driver
+  license: GPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/springcloudrds/pom.xml
+  detection_source: aws/springcloudrds/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-05-13 11:56:32.000000000 Z
+- name: net.bytebuddy:byte-buddy
+  description: Byte Buddy is a Java library for creating Java classes at run time
+  version: 1.9.12
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-message-producer/build.gradle
+  detection_source: pact/pact-message-producer/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2019-03-30 07:02:10.000000000 Z
+- name: org.apache.commons:commons-collections4
+  description: The Apache Commons Collections package contains types that extend and
+    augment the Java Collections Framework
+  version: '4.4'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/collectionops/pom.xml
+  detection_source: core-java/collectionops/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-01-04 09:55:55.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  version: 3.12.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/junit5-parameterized-tests/pom.xml
+  detection_source: core-java/junit5-parameterized-tests/pom.xml
+  last_updated_by: Pralhad” Hadimani
+  last_updated_on: 2023-01-25 16:07:56.000000000 Z
+- name: org.apache.flink:flink-clients_2.11
+  version: 1.14.3
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/kinesis/pom.xml
+  detection_source: aws/kinesis/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-03-12 20:44:09.000000000 Z
+- name: org.apache.flink:flink-streaming-java_2.11
+  version: 1.14.3
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/kinesis/pom.xml
+  detection_source: aws/kinesis/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-03-12 20:44:09.000000000 Z
+- name: org.apache.httpcomponents:httpclient
+  description: Apache HttpComponents Client
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/resttemplate/pom.xml
+  detection_source: spring-boot/resttemplate/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-12-27 03:55:04.000000000 Z
+- name: org.apache.logging.log4j:log4j-api
+  description: The Apache Log4j API
+  version: 2.14.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/logging/log4j/pom.xml
+  detection_source: logging/log4j/pom.xml
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2021-06-04 21:50:27.000000000 Z
+  vulnerabilities:
+  - name: Incomplete fix for Apache Log4j vulnerability
+    cve_id: CVE-2021-45046
+    cve_url: https://github.com/advisories/GHSA-7rjr-3q55-vv33
+    detected_date: Dec 14
+    severity: critical
+    first_patched: 2.16.0
+  - name: Remote code injection in Log4j
+    cve_id: CVE-2021-44228
+    cve_url: https://github.com/advisories/GHSA-jfh8-c2jp-5v3q
+    detected_date: Dec 14
+    severity: critical
+    first_patched: 2.15.0
+  - name: Improper Input Validation and Uncontrolled Recursion in Apache Log4j2
+    cve_id: CVE-2021-45105
+    cve_url: https://github.com/advisories/GHSA-p6xc-xr62-6r2g
+    detected_date: Dec 19
+    severity: high
+    first_patched: 2.17.0
+  - name: Improper Input Validation and Injection in Apache Log4j2
+    cve_id: CVE-2021-44832
+    cve_url: https://github.com/advisories/GHSA-8489-44mv-ggj8
+    detected_date: Jan 5
+    severity: moderate
+    first_patched: 2.17.1
+- name: org.apache.logging.log4j:log4j-core
+  description: The Apache Log4j Implementation
+  version: 2.14.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/logging/log4j/pom.xml
+  detection_source: logging/log4j/pom.xml
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2021-06-04 21:50:27.000000000 Z
+  vulnerabilities:
+  - name: Incomplete fix for Apache Log4j vulnerability
+    cve_id: CVE-2021-45046
+    cve_url: https://github.com/advisories/GHSA-7rjr-3q55-vv33
+    detected_date: Dec 14
+    severity: critical
+    first_patched: 2.16.0
+  - name: Remote code injection in Log4j
+    cve_id: CVE-2021-44228
+    cve_url: https://github.com/advisories/GHSA-jfh8-c2jp-5v3q
+    detected_date: Dec 14
+    severity: critical
+    first_patched: 2.15.0
+  - name: Apache Log4j2 vulnerable to Improper Input Validation and Uncontrolled Recursion
+    cve_id: CVE-2021-45105
+    cve_url: https://github.com/advisories/GHSA-p6xc-xr62-6r2g
+    detected_date: Dec 19
+    severity: high
+    first_patched: 2.17.0
+  - name: Improper Input Validation and Injection in Apache Log4j2
+    cve_id: CVE-2021-44832
+    cve_url: https://github.com/advisories/GHSA-8489-44mv-ggj8
+    detected_date: Jan 5
+    severity: moderate
+    first_patched: 2.17.1
+- name: org.apache.logging.log4j:log4j-slf4j-impl
+  description: Binding between SLF4J API and Log4J2 Core
+  version: 2.14.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/logging/log4j/pom.xml
+  detection_source: logging/log4j/pom.xml
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2021-06-04 21:50:27.000000000 Z
+- name: org.aspectj:aspectjrt
+  description: The runtime needed to execute a program using AspectJ
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/springcloudrds/pom.xml
+  detection_source: aws/springcloudrds/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-05-13 11:56:32.000000000 Z
+- name: org.aspectj:aspectjweaver
+  description: The AspectJ weaver introduces advices to java classes
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/springcloudrds/pom.xml
+  detection_source: aws/springcloudrds/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-05-13 11:56:32.000000000 Z
+- name: org.assertj:assertj-core
+  description: Rich and fluent assertions for testing for Java
+  version: 3.23.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/jackson/jackson/pom.xml
+  detection_source: core-java/jackson/jackson/pom.xml
+  last_updated_by: Abdulcelil Cercenazi
+  last_updated_on: 2022-07-14 20:34:05.000000000 Z
+- name: org.awaitility:awaitility
+  description: A Java DSL for synchronizing asynchronous operations
+  version: 3.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/reactive/build.gradle
+  detection_source: reactive/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-01-31 08:48:06.000000000 Z
+- name: org.bouncycastle:bcprov-jdk15on
+  description: The Bouncy Castle Crypto package is a Java implementation of cryptographic
+    algorithms
+  version: '1.64'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/password-encoding/build.gradle
+  detection_source: spring-boot/password-encoding/build.gradle
+  last_updated_by: akuksin
+  last_updated_on: 2020-02-17 21:24:01.000000000 Z
+  vulnerabilities:
+  - name: Bouncy Castle For Java LDAP injection vulnerability
+    cve_id: CVE-2023-33201
+    cve_url: https://github.com/advisories/GHSA-hr8g-6v94-x4m9
+    detected_date: Sep 6
+    severity: moderate
+    first_patched: 
+  - name: Timing based private key exposure in Bouncy Castle
+    cve_id: CVE-2020-15522
+    cve_url: https://github.com/advisories/GHSA-6xx3-rg99-gc3p
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: '1.66'
+- name: org.codehaus.groovy:groovy-all
+  description: 'Groovy: A powerful, dynamic language for the JVM'
+  version: 2.4.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-feign-consumer/build.gradle
+  detection_source: pact/pact-feign-consumer/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2019-03-30 07:02:10.000000000 Z
+- name: org.dbunit:dbunit
+  description: DbUnit is a JUnit extension
+  version: 2.6.0
+  license: LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-testing/build.gradle
+  detection_source: spring-boot/spring-boot-testing/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2019-02-24 05:55:20.000000000 Z
+- name: org.flywaydb:flyway-core
+  description: 'Flyway: Database Migrations Made Easy'
+  version: 6.0.8
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/password-encoding/build.gradle
+  detection_source: aws/aws-rds-hello-world/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-05-08 22:38:41.000000000 Z
+- name: org.glassfish.jersey.core:jersey-client
+  description: Jersey core client implementation
+  version: '2.27'
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  detection_source: spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  last_updated_by: Petros Stergioulas
+  last_updated_on: 2020-02-09 21:25:26.000000000 Z
+- name: org.glassfish.jersey.media:jersey-media-json-jackson
+  description: Jersey JSON Jackson entity providers support module
+  version: '2.27'
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  detection_source: spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  last_updated_by: Petros Stergioulas
+  last_updated_on: 2020-02-09 21:25:26.000000000 Z
+- name: org.glassfish.jersey.media:jersey-media-multipart
+  description: Jersey Multipart entity providers support module
+  version: '2.27'
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  detection_source: spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  last_updated_by: Petros Stergioulas
+  last_updated_on: 2020-02-09 21:25:26.000000000 Z
+- name: org.hamcrest:hamcrest-all
+  description: A self-contained hamcrest jar containing all of the sub-modules in
+    a single artifact
+  version: '1.3'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/junit/junit5/junit5/pom.xml
+  detection_source: junit/junit5/junit5/pom.xml
+  last_updated_by: Abdulcelil Cercenazi
+  last_updated_on: 2023-01-31 01:46:51.000000000 Z
+- name: org.hamcrest:hamcrest-library
+  description: A library of Hamcrest matchers - deprecated
+  version: '2.2'
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/jackson-jsonview/UserApplication/pom.xml
+  detection_source: spring-boot/jackson-jsonview/UserApplication/pom.xml
+  last_updated_by: Ranjani
+  last_updated_on: 2023-04-01 19:17:32.000000000 Z
+- name: org.hibernate:hibernate-validator
+  description: Hibernate's Bean Validation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/patterns/build.gradle
+  detection_source: patterns/build.gradle
+  last_updated_by: thombergs
+  last_updated_on: 2020-06-21 13:11:47.000000000 Z
+- name: org.hsqldb:hsqldb
+  description: HSQLDB - Lightweight 100% Java SQL Database Engine
+  version: 2.4.0
+  license: Zed,TMate
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/lombok/be-informed-with-lombok/pom.xml
+  detection_source: core-java/lombok/be-informed-with-lombok/pom.xml
+  last_updated_by: ranjanih
+  last_updated_on: 2022-04-09 22:55:31.000000000 Z
+  vulnerabilities:
+  - name: HyperSQL DataBase vulnerable to remote code execution when processing untrusted
+      input
+    cve_id: CVE-2022-41853
+    cve_url: https://github.com/advisories/GHSA-77xx-rxvh-q682
+    detected_date: Oct 7
+    severity: critical
+    first_patched: 2.7.1
+- name: org.immutables:value
+  description: Annotations to generate immutable and other support classes
+  version: 2.8.8
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/immutables/pom.xml
+  detection_source: immutables/pom.xml
+  last_updated_by: Mateo Stjepanović
+  last_updated_on: 2022-01-13 07:12:55.000000000 Z
+- name: org.javassist:javassist
+  description: Javassist
+  version: 3.23.1
+  license: LGPL-2.1,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-feign-consumer/build.gradle
+  detection_source: pact/pact-feign-consumer/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2019-03-30 07:02:10.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib
+  description: Kotlin Standard Library for JVM
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/kotlin/coroutines/build.gradle
+  detection_source: kotlin/coroutines/build.gradle
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-06-19 00:43:02.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-test
+  description: Kotlin Test
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/kotlin/coroutines/build.gradle
+  detection_source: kotlin/coroutines/build.gradle
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-06-19 00:43:02.000000000 Z
+- name: org.jetbrains.kotlinx:kotlinx-coroutines-core
+  version: 1.6.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/kotlin/coroutines/build.gradle
+  detection_source: kotlin/coroutines/build.gradle
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-06-19 00:43:02.000000000 Z
+- name: org.junit.jupiter:junit-jupiter
+  description: Module "junit-jupiter" of JUnit 5
+  version: 5.7.1
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/cdkv2/pom.xml
+  detection_source: aws/cdkv2/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-01-21 03:44:35.000000000 Z
+- name: org.junit.jupiter:junit-jupiter-api
+  description: Module "junit-jupiter-api" of JUnit 5
+  version: 5.9.2
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/archunit/pom.xml
+  detection_source: archunit/pom.xml
+  last_updated_by: michaelk
+  last_updated_on: 2023-06-26 07:55:27.000000000 Z
+- name: org.junit.jupiter:junit-jupiter-engine
+  description: Module "junit-jupiter-engine" of JUnit 5
+  version: 5.8.1
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/archunit/pom.xml
+  detection_source: archunit/pom.xml
+  last_updated_by: michaelk
+  last_updated_on: 2023-06-26 07:55:27.000000000 Z
+- name: org.junit.jupiter:junit-jupiter-params
+  description: Module "junit-jupiter-params" of JUnit 5
+  version: 5.9.2
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/junit5-parameterized-tests/pom.xml
+  detection_source: core-java/junit5-parameterized-tests/pom.xml
+  last_updated_by: Pralhad” Hadimani
+  last_updated_on: 2023-01-25 16:07:56.000000000 Z
+- name: org.junit.platform:junit-platform-commons
+  description: Module "junit-platform-commons" of JUnit 5
+  version: 1.7.0
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/lombok/be-informed-with-lombok/pom.xml
+  detection_source: core-java/lombok/be-informed-with-lombok/pom.xml
+  last_updated_by: ranjanih
+  last_updated_on: 2022-04-09 22:55:31.000000000 Z
+- name: org.junit.platform:junit-platform-launcher
+  description: Module "junit-platform-launcher" of JUnit 5
+  version: 1.4.0
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/mocking/build.gradle
+  detection_source: spring-boot/mocking/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2019-09-18 06:03:33.000000000 Z
+- name: org.liquibase:liquibase-core
+  description: Liquibase is a tool for managing and executing database changes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/data-migration/liquibase/pom.xml
+  detection_source: spring-boot/data-migration/liquibase/pom.xml
+  last_updated_by: prabhakar349
+  last_updated_on: 2020-03-30 10:06:25.000000000 Z
+- name: org.mockito:mockito-core
+  description: Mockito mock objects library core API and implementation
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/cookie-demo/pom.xml
+  detection_source: spring-boot/cookie-demo/pom.xml
+  last_updated_by: Ortela Gode
+  last_updated_on: 2021-01-17 19:01:49.000000000 Z
+- name: org.mockito:mockito-junit-jupiter
+  description: Mockito JUnit 5 support
+  version: 2.23.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/mocking/build.gradle
+  detection_source: spring-boot/mocking/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2019-09-18 06:03:33.000000000 Z
+- name: org.postgresql:postgresql
+  description: The PostgreSQL Driver JDBC4
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/aws-rds-hello-world/build.gradle
+  detection_source: aws/aws-rds-hello-world/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-05-08 22:38:41.000000000 Z
+- name: org.projectlombok:lombok
+  description: 'Spice up your java: Automatic Resource Management'
+  version: 1.18.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/s3/build.gradle
+  detection_source: aws/localstack/pom.xml
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-09-19 20:59:29.000000000 Z
+- name: org.reflections:reflections
+  description: Reflections - a Java runtime metadata analysis
+  version: 0.9.10
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/boundaries/build.gradle
+  detection_source: spring-boot/boundaries/build.gradle
+  last_updated_by: thombergs
+  last_updated_on: 2020-03-06 21:26:15.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  version: 1.7.36
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/mapstruct/pom.xml
+  detection_source: mapstruct/pom.xml
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-06-08 15:55:58.000000000 Z
+- name: org.slf4j:slf4j-log4j12
+  description: SLF4J LOG4J-12 Binding
+  version: 1.7.36
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/mapstruct/pom.xml
+  detection_source: mapstruct/pom.xml
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-06-08 15:55:58.000000000 Z
+- name: org.slf4j:slf4j-simple
+  description: SLF4J Simple binding
+  version: 2.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/openfeign/openfeign-client-intro/pom.xml
+  detection_source: openfeign/openfeign-client-intro/pom.xml
+  last_updated_by: Sachin Raverkar
+  last_updated_on: 2023-10-01 22:13:41.000000000 Z
+- name: org.springframework.boot:spring-boot-configuration-processor
+  description: Spring Boot Configuration Processor
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/data-migration/liquibase/pom.xml
+  detection_source: spring-boot/data-migration/liquibase/pom.xml
+  last_updated_by: prabhakar349
+  last_updated_on: 2020-03-30 10:06:25.000000000 Z
+- name: org.springframework.boot:spring-boot-devtools
+  description: Spring Boot Developer Tools
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/data-migration/liquibase/pom.xml
+  detection_source: spring-boot/data-migration/liquibase/pom.xml
+  last_updated_by: prabhakar349
+  last_updated_on: 2020-03-30 10:06:25.000000000 Z
+- name: org.springframework.boot:spring-boot-starter
+  description: Core starter
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/logging/structured-logging/pom.xml
+  detection_source: logging/structured-logging/pom.xml
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2021-08-16 10:22:15.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-actuator
+  description: Starter for using Spring Boot's Actuator which provides production
+    ready features to help you monitor and manage your application
+  version: 2.4.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/resilience4j/springboot-resilience4j/pom.xml
+  detection_source: resilience4j/springboot-resilience4j/pom.xml
+  last_updated_by: Saajan
+  last_updated_on: 2021-07-21 10:04:24.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-aop
+  description: Starter for aspect-oriented programming with Spring AOP and AspectJ
+  version: 2.4.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/resilience4j/springboot-resilience4j/pom.xml
+  detection_source: resilience4j/springboot-resilience4j/pom.xml
+  last_updated_by: Saajan
+  last_updated_on: 2021-07-21 10:04:24.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-jpa
+  description: Starter for using Spring Data JPA with Hibernate
+  version: 2.6.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/beginners-guide/pom.xml
+  detection_source: aws/s3/build.gradle
+  last_updated_by: jgoerner
+  last_updated_on: 2021-02-03 20:11:58.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-mongodb
+  description: Starter for using MongoDB document-oriented database and Spring Data
+    MongoDB
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-and-reactjs/publisher_register/pom.xml
+  detection_source: spring-boot/spring-boot-and-reactjs/publisher_register/pom.xml
+  last_updated_by: olaoluwa ajibade
+  last_updated_on: 2023-05-03 16:38:29.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-redis
+  description: Starter for using Redis key-value data store with Spring Data Redis
+    and the Lettuce client
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/spring-cloud-caching-redis/build.gradle
+  detection_source: aws/spring-cloud-caching-redis/build.gradle
+  last_updated_by: Murtuza Ranapurwala
+  last_updated_on: 2021-06-06 16:01:26.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-jdbc
+  description: Starter for using JDBC with the HikariCP connection pool
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/graphql/pom.xml
+  detection_source: graphql/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-01-15 12:25:28.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-log4j2
+  description: Starter for using Log4j2 for logging
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/structured-logging-cw/pom.xml
+  detection_source: aws/structured-logging-cw/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2023-04-25 13:56:42.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-mail
+  description: Starter for using Java Mail and Spring Framework's email sending support
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/springcloudses/pom.xml
+  detection_source: aws/springcloudses/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-06-23 11:11:49.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-security
+  description: Starter for using Spring Security
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/core-java/retrofit/introduction-to-retrofit/SimpleLibraryApplication/pom.xml
+  detection_source: core-java/retrofit/introduction-to-retrofit/SimpleLibraryApplication/pom.xml
+  last_updated_by: ranjanih
+  last_updated_on: 2022-05-17 20:27:51.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/aws-hello-world/build.gradle
+  detection_source: aws/aws-hello-world/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-01-22 19:59:18.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-thymeleaf
+  description: Starter for building MVC web applications using Thymeleaf views
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/s3/build.gradle
+  detection_source: aws/s3/build.gradle
+  last_updated_by: jgoerner
+  last_updated_on: 2021-02-03 20:11:58.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-validation
+  description: Starter for using Java Bean Validation with Hibernate Validator
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/spring-cloud-caching-redis/build.gradle
+  detection_source: aws/spring-cloud-caching-redis/build.gradle
+  last_updated_by: Murtuza Ranapurwala
+  last_updated_on: 2021-06-06 16:01:26.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/aws-hello-world/build.gradle
+  detection_source: aws/aws-hello-world/build.gradle
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-01-22 19:59:18.000000000 Z
+- name: org.springframework.kafka:spring-kafka
+  description: Spring Kafka Support
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-kafka/pom.xml
+  detection_source: spring-boot/spring-boot-kafka/pom.xml
+  last_updated_by: Nandan Bn
+  last_updated_on: 2020-07-06 14:33:57.000000000 Z
+- name: org.springframework.security:spring-security-test
+  description: Spring-security-test
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/csrf/SpringCsrfApplication/pom.xml
+  detection_source: spring-boot/csrf/SpringCsrfApplication/pom.xml
+  last_updated_by: ranjanih
+  last_updated_on: 2022-10-20 23:41:40.000000000 Z
+- name: org.springframework:spring-oxm
+  description: Spring Object/XML Marshalling
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/resttemplate/pom.xml
+  detection_source: spring-boot/resttemplate/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-12-27 03:55:04.000000000 Z
+- name: org.springframework:spring-tx
+  description: Spring Transaction
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-events/pom.xml
+  detection_source: spring-boot/spring-events/pom.xml
+  last_updated_by: Nandan Bn
+  last_updated_on: 2020-02-24 19:38:13.000000000 Z
+- name: org.springframework:spring-web
+  description: Spring Web
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/ioc-and-di/pom.xml
+  detection_source: spring-boot/ioc-and-di/pom.xml
+  last_updated_by: Abdulcelil Cercenazi
+  last_updated_on: 2022-12-07 23:56:16.000000000 Z
+- name: org.testcontainers:postgresql
+  description: Testcontainers is a Java library that supports JUnit tests
+  version: 1.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/data-migration/liquibase/pom.xml
+  detection_source: spring-boot/data-migration/liquibase/pom.xml
+  last_updated_by: prabhakar349
+  last_updated_on: 2020-03-30 10:06:25.000000000 Z
+- name: org.testcontainers:testcontainers
+  description: Isolated container management for Java code testing
+  version: 1.12.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/cache/build.gradle
+  detection_source: spring-boot/cache/build.gradle
+  last_updated_by: akuksin
+  last_updated_on: 2020-06-18 21:11:44.000000000 Z
+- name: org.threeten:threetenbp
+  description: Backport of JSR-310 from JDK 8 to JDK 7 and JDK 6
+  version: 1.3.8
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  detection_source: spring-boot/spring-boot-openapi-impl/specification/pom.xml
+  last_updated_by: Petros Stergioulas
+  last_updated_on: 2020-02-09 21:25:26.000000000 Z
+- name: org.unitils:unitils-core
+  version: 3.4.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/mockito/pom.xml
+  detection_source: mockito/pom.xml
+  last_updated_by: Lukas Leuenberger
+  last_updated_on: 2021-04-19 20:05:04.000000000 Z
+- name: software.amazon.awssdk:s3
+  description: The AWS Java SDK for Amazon S3 module holds the client classes that
+    are used for communicating with Amazon Simple Storage Service
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/aws/localstack/pom.xml
+  detection_source: aws/localstack/pom.xml
+  last_updated_by: Pratik Das
+  last_updated_on: 2020-07-15 19:04:06.000000000 Z
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 14.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/cors/configuring-cors-with-spring/cors-app/package-lock.json
+  detection_source: spring-boot/cors/configuring-cors-with-spring/cors-app/package.json
+  last_updated_by: ranjanih
+  last_updated_on: 2022-08-31 20:46:01.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2018-01-02 22:01:38.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 1.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@angular/http"
+  description: Angular - the http service
+  package_url: https://www.npmjs.com/@angular/http
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15977/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@angular/language-service"
+  description: Angular - language services
+  package_url: https://www.npmjs.com/@angular/language-service
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@apollo/server"
+  description: Core engine for Apollo GraphQL server
+  package_url: https://www.npmjs.com/@apollo/server
+  version: 4.4.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/graphql/student-register/package.json
+  detection_source: nodejs/graphql/student-register/package.json
+  last_updated_by: olaoluwa ajibade
+  last_updated_on: 2023-03-13 04:36:45.000000000 Z
+  vulnerabilities:
+  - name: Prevent logging invalid header values
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-j5g3-5c8r-7qfx
+    detected_date: Dec 19
+    severity: low
+    first_patched: 4.9.3
+- name: "@babel/cli"
+  description: Babel command line
+  package_url: https://www.npmjs.com/@babel/cli
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.17.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: "@babel/plugin-proposal-class-properties"
+  description: This plugin transforms static class properties as well as properties
+    declared with the property initializer syntax
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-class-properties
+  version: 7.16.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15903/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: "@babel/plugin-transform-runtime"
+  description: Externalise references to helpers and builtins
+  package_url: https://www.npmjs.com/@babel/plugin-transform-runtime
+  version: 7.17.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15952/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: "@babel/polyfill"
+  description: Provides polyfills necessary for a full ES2015+ environment
+  package_url: https://www.npmjs.com/@babel/polyfill
+  version: 7.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16039/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.17.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.16.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: "@storybook/addon-actions"
+  description: Action Logger addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-actions
+  version: 5.3.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16126/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-08 11:51:46.000000000 Z
+- name: "@storybook/addon-links"
+  description: Story Links addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-links
+  version: 5.3.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16204/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-08 11:51:46.000000000 Z
+- name: "@storybook/addons"
+  description: Storybook addons store
+  package_url: https://www.npmjs.com/@storybook/addons
+  version: 5.3.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16200/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-08 11:51:46.000000000 Z
+- name: "@storybook/vue"
+  description: 'Storybook for Vue: Develop Vue Component in isolation with Hot Reloading'
+  package_url: https://www.npmjs.com/@storybook/vue
+  version: 5.3.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17492/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-08 11:51:46.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.16.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/axios/reactapp/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-05-17 14:13:10.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/axios/reactapp/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-05-17 14:13:10.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: node/express/getting-started/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-03-12 20:44:09.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 2.5.54
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@types/jasminewd2"
+  description: TypeScript definitions for jasminewd2
+  package_url: https://www.npmjs.com/@types/jasminewd2
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16060/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 17.0.33
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: node/express/getting-started/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-03-12 20:44:09.000000000 Z
+- name: "@vue/cli-plugin-babel"
+  description: Babel plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-babel
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-26 20:31:28.000000000 Z
+- name: "@vue/cli-plugin-eslint"
+  description: Eslint plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-eslint
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16035/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-26 20:31:28.000000000 Z
+- name: "@vue/cli-plugin-unit-jest"
+  description: Unit-jest plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-unit-jest
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16558/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-26 20:31:28.000000000 Z
+- name: "@vue/cli-service"
+  description: Local service for vue-cli projects
+  package_url: https://www.npmjs.com/@vue/cli-service
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-26 20:31:28.000000000 Z
+- name: "@vue/test-utils"
+  description: Utilities for testing Vue components
+  package_url: https://www.npmjs.com/@vue/test-utils
+  version: 1.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16231/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-26 20:31:28.000000000 Z
+- name: apollo-cache-inmemory
+  description: Core abstract of Caching layer for Apollo Client
+  package_url: https://www.npmjs.com/apollo-cache-inmemory
+  version: 1.3.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16956/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-react-consumer/package-lock.json
+  detection_source: pact/pact-react-consumer/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2018-11-08 15:31:46.000000000 Z
+- name: apollo-client
+  description: A simple yet functional GraphQL client
+  package_url: https://www.npmjs.com/apollo-client
+  version: 2.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16731/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-react-consumer/package-lock.json
+  detection_source: pact/pact-react-consumer/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2018-11-08 15:31:46.000000000 Z
+- name: apollo-link-http
+  description: HTTP transport layer for GraphQL
+  package_url: https://www.npmjs.com/apollo-link-http
+  version: 1.5.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17167/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-react-consumer/package-lock.json
+  detection_source: pact/pact-react-consumer/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2018-11-08 15:31:46.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-react-consumer/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: babel-plugin-styled-components
+  description: Improve the debugging experience and add server-side rendering support
+    to styled-components
+  package_url: https://www.npmjs.com/babel-plugin-styled-components
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16651/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: babel-preset-vue
+  description: Babel preset for all Vue plugins
+  package_url: https://www.npmjs.com/babel-preset-vue
+  version: 2.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17764/default_a3a8e3ccb38174acb180f0920c5d4e2fea848911.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-08 11:51:46.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/cors/ecommapp/package-lock.json
+  detection_source: cors/ecommapp/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-07-05 12:39:25.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/modules/package.json
+  last_updated_by: Robert Dey
+  last_updated_on: 2022-02-17 19:25:06.000000000 Z
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 3.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: cookie-parser
+  description: Parse HTTP request cookies
+  package_url: https://www.npmjs.com/cookie-parser
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-node-provider/package-lock.json
+  detection_source: csrf/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-07-22 09:44:26.000000000 Z
+- name: cookie-session
+  description: Cookie session middleware
+  package_url: https://www.npmjs.com/cookie-session
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17669/default_4ba4cce198b4498f328ca26971f69b03cf49892a.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/csrf/package.json
+  detection_source: csrf/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-07-22 09:44:26.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 3.22.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/axios/reactapp/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-05-17 14:13:10.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-18 18:22:13.000000000 Z
+- name: csurf
+  description: CSRF token middleware
+  package_url: https://www.npmjs.com/csurf
+  version: 1.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18435/default_a5ed378627de312208d3c349f612c8beb1238df7.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/csrf/package.json
+  detection_source: csrf/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-07-22 09:44:26.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/cors/ecommapp/package-lock.json
+  detection_source: pact/pact-node-provider/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2018-10-27 03:47:23.000000000 Z
+- name: eslint-config-airbnb
+  description: Airbnb's ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb
+  version: 17.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: eslint-plugin-babel
+  description: An eslint rule plugin companion to babel-eslint
+  package_url: https://www.npmjs.com/eslint-plugin-babel
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15988/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 6.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-08 11:51:46.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/cors/ecommapp/package-lock.json
+  detection_source: cors/ecommapp/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2021-07-05 12:39:25.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: express-graphql
+  description: Production ready GraphQL HTTP middleware
+  package_url: https://www.npmjs.com/express-graphql
+  version: 0.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17490/default_1d2902e8f9c84259702671591379572493b9009b.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-node-provider/package-lock.json
+  detection_source: pact/pact-node-provider/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2018-11-08 20:49:22.000000000 Z
+- name: fast-csv
+  description: CSV parser and writer
+  package_url: https://www.npmjs.com/fast-csv
+  version: 4.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18136/default_3e053d4b47b1198323e0d3094fad02237b4d3c17.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/node-csv-importer/package.json
+  detection_source: nodejs/node-csv-importer/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-12-04 22:50:13.000000000 Z
+- name: graphql-tag
+  description: A JavaScript template literal tag that parses GraphQL queries
+  package_url: https://www.npmjs.com/graphql-tag
+  version: 2.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16631/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-node-messages/package-lock.json
+  detection_source: nodejs/graphql/student-register/package.json
+  last_updated_by: olaoluwa ajibade
+  last_updated_on: 2023-03-13 04:36:45.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: jasmine-spec-reporter
+  description: Spec reporter for jasmine behavior-driven development framework
+  package_url: https://www.npmjs.com/jasmine-spec-reporter
+  version: 4.1.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
+- name: json2csv
+  description: Convert JSON to CSV
+  package_url: https://www.npmjs.com/json2csv
+  version: 5.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17719/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/node-csv-importer/package.json
+  detection_source: nodejs/node-csv-importer/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-12-04 22:50:13.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-12-10 19:24:55.000000000 Z
+- name: karma-cli
+  description: The Karma command line interface
+  package_url: https://www.npmjs.com/karma-cli
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16104/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-12-10 19:24:55.000000000 Z
+- name: karma-coverage
+  description: A Karma plugin. Generate code coverage
+  package_url: https://www.npmjs.com/karma-coverage
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15951/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/cors/configuring-cors-with-spring/cors-app/package-lock.json
+  detection_source: spring-boot/cors/configuring-cors-with-spring/cors-app/package.json
+  last_updated_by: ranjanih
+  last_updated_on: 2022-08-31 20:46:01.000000000 Z
+- name: karma-coverage-istanbul-reporter
+  description: A karma reporter that uses the latest istanbul 1.x APIs
+  package_url: https://www.npmjs.com/karma-coverage-istanbul-reporter
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-12-10 19:24:55.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-12-10 19:24:55.000000000 Z
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 0.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-12-10 19:24:55.000000000 Z
+- name: morgan
+  description: HTTP request logger middleware for node.js
+  package_url: https://www.npmjs.com/morgan
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/middleware/package-lock.json
+  detection_source: nodejs/middleware/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-03-26 04:52:58.000000000 Z
+- name: multer
+  description: Middleware for handling `multipart/form-data`
+  package_url: https://www.npmjs.com/multer
+  version: 1.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16421/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/node-csv-importer/package.json
+  detection_source: nodejs/node-csv-importer/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-12-04 22:50:13.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-react-consumer/package-lock.json
+  detection_source: nodejs/errorhandling/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-05-04 10:54:00.000000000 Z
+  vulnerabilities:
+  - name: node-fetch forwards secure headers to untrusted sites
+    cve_id: CVE-2022-0235
+    cve_url: https://github.com/advisories/GHSA-r683-j2x4-v87g
+    detected_date: Jan 22
+    severity: high
+    first_patched: 2.6.7
+  - name: The `size` option isn't honored after following a redirect in node-fetch
+    cve_id: CVE-2020-15168
+    cve_url: https://github.com/advisories/GHSA-w7rc-rwvf-8q5r
+    detected_date: Aug 22
+    severity: low
+    first_patched: 2.6.1
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 8.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/node-csv-importer/package.json
+  detection_source: nodejs/node-csv-importer/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-12-04 22:50:13.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/axios/reactapp/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-05-17 14:13:10.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: nodejs/axios/reactapp/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-05-17 14:13:10.000000000 Z
+- name: react-table
+  description: Hooks for building lightweight
+  package_url: https://www.npmjs.com/react-table
+  version: 7.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17860/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/node-csv-importer/client/package.json
+  detection_source: nodejs/node-csv-importer/client/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-12-04 22:50:13.000000000 Z
+- name: shortid
+  description: Amazingly short non-sequential url-friendly unique id generator
+  package_url: https://www.npmjs.com/shortid
+  version: 2.2.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16368/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/url-shortener/urlbackend/package-lock.json
+  detection_source: nodejs/url-shortener/urlbackend/package.json
+  last_updated_by: Olaoluwa Ajibade
+  last_updated_on: 2022-11-03 23:46:47.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/serversideapp_ts/package-lock.json
+  detection_source: node/express/getting-started/package.json
+  last_updated_by: Pratik Das
+  last_updated_on: 2022-03-12 20:44:09.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.4.0
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/axios/reactapp/package-lock.json
+  detection_source: spring-boot/cors/configuring-cors-with-spring/cors-app/package.json
+  last_updated_by: ranjanih
+  last_updated_on: 2022-08-31 20:46:01.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-08 11:51:46.000000000 Z
+- name: vue-template-compiler
+  description: Template compiler for Vue 2.0
+  package_url: https://www.npmjs.com/vue-template-compiler
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/spring-boot/thymeleaf-vue/client/package-lock.json
+  detection_source: spring-boot/thymeleaf-vue/client/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2020-06-08 11:51:46.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: webpack-node-externals
+  description: Easily exclude node_modules in Webpack bundle
+  package_url: https://www.npmjs.com/webpack-node-externals
+  version: 1.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16156/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: webpack-serve
+  description: A CLI for webpack-plugin-serve
+  package_url: https://www.npmjs.com/webpack-serve
+  version: 2.0.3
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17518/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  detection_source: nodejs/react-cypress-launchdarkly-feature-flag-test/package.json
+  last_updated_by: Arpendu Kumar Garai
+  last_updated_on: 2022-11-07 08:51:48.000000000 Z
+- name: winston
+  description: A logger for just about everything
+  package_url: https://www.npmjs.com/winston
+  version: 2.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16003/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-node-messages/package-lock.json
+  detection_source: nodejs/logging-file/package.json
+  last_updated_by: Olaoluwa Ajibade
+  last_updated_on: 2022-07-24 23:51:25.000000000 Z
+- name: winston-daily-rotate-file
+  description: A transport for winston which logs to a rotating file each day
+  package_url: https://www.npmjs.com/winston-daily-rotate-file
+  version: 4.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17407/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/nodejs/logging-file/package.json
+  detection_source: nodejs/logging-file/package.json
+  last_updated_by: Olaoluwa Ajibade
+  last_updated_on: 2022-07-24 23:51:25.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.8.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/fairushyn/code-examples/blob/master/pact/pact-angular/package-lock.json
+  detection_source: pact/pact-angular/package.json
+  last_updated_by: Tom Hombergs
+  last_updated_on: 2017-10-10 19:21:58.000000000 Z
