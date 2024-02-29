@@ -2,7 +2,7 @@ repo_name: fairushyn/code-examples
 report_id: 37f618f9f0c1a6bda6dbadd0de624323
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-13T18:20:30+00:00'
+timestamp: '2024-02-29T20:03:07+00:00'
 requested_by: sagaofsilence
 provider: github
 branch: master
@@ -1345,6 +1345,12 @@ tools:
     detected_date: Jan 22
     severity: critical
     first_patched: 4.0.5
+  - name: Missing permission checks on Hazelcast client protocol
+    cve_id: CVE-2023-45859
+    cve_url: https://github.com/advisories/GHSA-xh6m-7cr7-xx66
+    detected_date: Feb 28
+    severity: high
+    first_patched: 
   - name: Hazelcast Executor Services don't check client permissions properly
     cve_id: CVE-2023-33265
     cve_url: https://github.com/advisories/GHSA-c5vj-wp4v-mmvx
@@ -1357,6 +1363,12 @@ tools:
     detected_date: May 23
     severity: moderate
     first_patched: 5.3.0
+  - name: Hazelcast Platform permission checking in CSV File Source connector
+    cve_id: CVE-2023-45860
+    cve_url: https://github.com/advisories/GHSA-8h4x-xvjp-vf99
+    detected_date: Feb 17
+    severity: moderate
+    first_patched: 
 - name: com.hazelcast:hazelcast-spring
   description: Open Source In-Memory Data Grid
   version: 4.0.1
@@ -2801,6 +2813,13 @@ tools:
   detection_source: spring-boot/ioc-and-di/pom.xml
   last_updated_by: Abdulcelil Cercenazi
   last_updated_on: 2022-12-07 23:56:16.000000000 Z
+  vulnerabilities:
+  - name: Spring Web vulnerable to Open Redirect or Server Side Request Forgery
+    cve_id: CVE-2024-22243
+    cve_url: https://github.com/advisories/GHSA-ccgv-vj62-xf9h
+    detected_date: Feb 25
+    severity: high
+    first_patched: 6.0.17
 - name: org.testcontainers:postgresql
   description: Testcontainers is a Java library that supports JUnit tests
   version: 1.13.0
