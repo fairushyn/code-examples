@@ -174,7 +174,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [fairushyn/code-examples](https://github.com/fairushyn/code-examples)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|285<br/>Tools used|02/13/24 <br/>Report generated|
+|285<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -922,7 +922,7 @@ Full tech stack [here](/techstack.md)
 |[com.github.springtestdbunit:spring-test-dbunit](https://springtestdbunit.github.com/spring-test-dbunit)|v1.3.0|02/24/19|Tom Hombergs |Apache-2.0|N/A|
 |[com.google.guava:guava](https://github.com/google/guava)|v31.0.1|01/04/22|Pratik Das |Apache-2.0|[CVE-2023-2976](https://github.com/advisories/GHSA-7g45-4rm6-3mm3) (Moderate)<br/>[CVE-2020-8908](https://github.com/advisories/GHSA-5mg8-w23w-74h3) (Low)|
 |[com.h2database:h2](http://www.h2database.com)|v1.4.196|02/03/21|jgoerner |MIT-feh|[CVE-2022-23221](https://github.com/advisories/GHSA-45hx-wfhj-473x) (Critical)<br/>[CVE-2021-42392](https://github.com/advisories/GHSA-h376-j262-vhq6) (Critical)<br/>[CVE-2022-45868](https://github.com/advisories/GHSA-22wj-vf5f-wrvj) (High)|
-|[com.hazelcast:hazelcast](https://www.hazelcast.org)|v4.0.1|06/18/20|akuksin |Apache-2.0|[CVE-2022-36437](https://github.com/advisories/GHSA-c5hg-mr8r-f6jp) (Critical)<br/>[](https://github.com/advisories/GHSA-v57x-gxfj-484q) (Critical)<br/>[CVE-2023-33265](https://github.com/advisories/GHSA-c5vj-wp4v-mmvx) (High)<br/>[CVE-2023-33264](https://github.com/advisories/GHSA-5gj6-62g7-vmgf) (Moderate)|
+|[com.hazelcast:hazelcast](https://www.hazelcast.org)|v4.0.1|06/18/20|akuksin |Apache-2.0|[CVE-2022-36437](https://github.com/advisories/GHSA-c5hg-mr8r-f6jp) (Critical)<br/>[](https://github.com/advisories/GHSA-v57x-gxfj-484q) (Critical)<br/>[CVE-2023-45859](https://github.com/advisories/GHSA-xh6m-7cr7-xx66) (High)<br/>[CVE-2023-33265](https://github.com/advisories/GHSA-c5vj-wp4v-mmvx) (High)<br/>[CVE-2023-33264](https://github.com/advisories/GHSA-5gj6-62g7-vmgf) (Moderate)<br/>[CVE-2023-45860](https://github.com/advisories/GHSA-8h4x-xvjp-vf99) (Moderate)|
 |[com.hazelcast:hazelcast-spring](https://www.hazelcast.org)|v4.0.1|06/18/20|akuksin |Apache-2.0|N/A|
 |[com.jayway.jsonpath:json-path](https://github.com/jayway/JsonPath)|N/A|09/21/20|Pratik Das |Apache-2.0|N/A|
 |[com.netflix.hystrix:hystrix-core](https://github.com/Netflix/Hystrix)|v1.5.18|10/01/23|Sachin Raverkar |Apache-2.0|N/A|
@@ -1011,7 +1011,7 @@ Full tech stack [here](/techstack.md)
 |[org.springframework.security:spring-security-test](http://spring.io/spring-security)|N/A|10/20/22|ranjanih |Apache-2.0|N/A|
 |[org.springframework:spring-oxm](https://github.com/spring-projects/spring-framework)|N/A|12/27/21|Pratik Das |Apache-2.0|N/A|
 |[org.springframework:spring-tx](https://github.com/spring-projects/spring-framework)|N/A|02/24/20|Nandan Bn |Apache-2.0|N/A|
-|[org.springframework:spring-web](https://github.com/spring-projects/spring-framework)|v6.0.0|12/07/22|Abdulcelil Cercenazi |Apache-2.0|N/A|
+|[org.springframework:spring-web](https://github.com/spring-projects/spring-framework)|v6.0.0|12/07/22|Abdulcelil Cercenazi |Apache-2.0|[CVE-2024-22243](https://github.com/advisories/GHSA-ccgv-vj62-xf9h) (High)|
 |[org.testcontainers:postgresql](https://testcontainers.org)|v1.13.0|03/30/20|prabhakar349 |MIT|N/A|
 |[org.testcontainers:testcontainers](https://testcontainers.org)|v1.12.5|06/18/20|akuksin |MIT|N/A|
 |[org.threeten:threetenbp](https://www.threeten.org/threetenbp)|v1.3.8|02/09/20|Petros Stergioulas |BSD-3-Clause|N/A|
